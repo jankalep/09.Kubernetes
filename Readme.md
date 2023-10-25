@@ -74,7 +74,7 @@ nodes:
 
 ## Homework Assignment 3: GitHub Actions for KinD Cluster Setup
 
-[![KinD Cluster Setup](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml/badge.svg)](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml)
+[![Kind Cluster Setup](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml/badge.svg)](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml)
 
 ### kind-cluster.yaml
 ```YAML
@@ -102,7 +102,7 @@ jobs:
 
 ## Homework Assignment 4: GitHub Actions for Minikube Cluster Setup
 
-[![KinD Cluster Setup](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml/badge.svg)](https://github.com/jankalep/09.Kubernetes/actions/workflows/kind-cluster.yaml)
+[![Minicube Cluster Setup](https://github.com/jankalep/09.Kubernetes/actions/workflows/minicube-cluster.yaml/badge.svg)](https://github.com/jankalep/09.Kubernetes/actions/workflows/minicube-cluster.yaml)
 
 
 ### minicube-cluster.yaml
