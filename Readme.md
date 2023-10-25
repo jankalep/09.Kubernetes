@@ -2,7 +2,7 @@
 
  ## [GitHub repository for my Kubernetes-related assignments](https://github.com/jankalep/09.Kubernetes)
 
- ## history commands
+ ## history of my commands
 ```bash
  1262  mkdir 09.Kubernetes
  1263  cd 09.Kubernetes
